@@ -1,0 +1,11 @@
+{
+  "task_name": "assemble_part",
+  "step_id": 3,
+  "action_label": "insert",
+  "object_label": "connector",
+  "start_frame": 125,
+  "end_frame": 167,
+  "success_flag": true,
+  "occlusion_flag": false,
+  "anomaly_flag": false
+}
