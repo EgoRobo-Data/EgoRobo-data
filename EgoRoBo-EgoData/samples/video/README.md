@@ -1,2 +1,0 @@
-在此目录放置公开视频样例或样例说明。
-建议命名：session_id_task_id_camera.mp4
